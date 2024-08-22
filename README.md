@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caretterutherford
-- 👀 I’m interested in web programming 
-- 🌱 I’m currently learning web development, sports, graphic design and loves music
+- 👀 I’m interested in web programming, sports, graphic design and loves music.
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on more projects on web designing and development
 - 📫 How to reach me. email: felixopoku526@gmail.com
 - 😄 Pronouns: He/Him
